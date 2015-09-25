@@ -1,3 +1,4 @@
 git is good at conflict resolution.
 
 please keep your line here:
+this conflict has been resolved.
